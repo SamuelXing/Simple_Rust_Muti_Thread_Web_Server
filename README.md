@@ -13,13 +13,15 @@ rustc 1.30.1 (1433507eb 2018-11-07)
 
 # Build
 ```
-cargo build
+# cargo build
 ```
 
 # Run
 ```
-cargo run
+# cargo run
 ```
+
+Visite 127.0.0.1:7878 to see result.
 
 # Lisence
 ```
